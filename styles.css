@@ -122,11 +122,11 @@ button {
     padding-bottom: 240px;
     display: flex;
     flex-direction: row;
-    padding-left: 160px;
+    padding-left: 175px;
     align-items: center;
 }
 .header-text-container {
-    margin-right: 132px;
+    margin-right: 188px;
 }
 .header-text {
     color: var(--text-color-secondary);
