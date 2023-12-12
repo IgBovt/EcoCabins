@@ -244,7 +244,7 @@ button {
   right: 340px;
   transform: translateX(300%);
   opacity: 0;
-  transition: all 500ms linear 0.5s;
+  transition: all 500ms linear 500ms;
 }
 .about-img-fix {
   transform: translateX(0%);
@@ -301,7 +301,7 @@ button {
   margin-right: 140px;
   transform: translateX(-100%);
   opacity: 0;
-  transition: all 500ms linear 1.5s;
+  transition: all 500ms linear 1500ms;
 }
 .work-img-fix {
   transform: translateX(0%);
